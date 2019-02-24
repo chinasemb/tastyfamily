@@ -21,7 +21,7 @@
     },
     "production": {
         "username": "root",
-        "password": "shuishui**123",
+        "password": "Shuishui123",
         "database": "meishi",
         "host": "172.19.0.11",
         "dialect": "mysql",
